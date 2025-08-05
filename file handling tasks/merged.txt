@@ -1,0 +1,4 @@
+Java is great.
+File handling is useful.
+Merging files is easy.
+Practice makes perfect.
